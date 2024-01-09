@@ -1,1 +1,1 @@
-# EECSportfolio
+# eecsportfolio
