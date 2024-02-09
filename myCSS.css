@@ -21,7 +21,6 @@ body {
 	width: 100%;
 	height: 80px;
 	font: impact, fantasy;
-	color: #3F4034;
 }
 .nav {
 	background: #7EA1BF;
@@ -31,6 +30,7 @@ body {
 	width: 100%;
 	height: 60px;
 	text-align: center;
+	font: 100%/1.4 optima, verdana, sans-serif;
 }
 .content {
 	background: #C1CED9;
@@ -46,7 +46,6 @@ body {
 	width: 100%;
 	height: 50px;
 	text-align: center;
-	color: #3F4034;
 }
 a:link {
      color: #303791;
