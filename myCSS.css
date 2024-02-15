@@ -34,11 +34,10 @@ body {
 }
 .content {
 	background: #C1CED9;
-	margin: 0px;
+	margin: 25px;
 	float: left;
 	width: 100%;
 	text-align: justify;
-	padding: 25px;
 }
 .footer {
 	background: #6387A6;
