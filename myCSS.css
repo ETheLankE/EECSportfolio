@@ -21,7 +21,6 @@ body {
 	width: 100%;
 	height: 80px;
 	font: impact, fantasy;
-	margin-left: auto;
 }
 .nav {
 	background: #7EA1BF;
@@ -39,6 +38,7 @@ body {
 	float: left;
 	width: 100%;
 	text-align: justify;
+	padding-left: auto;
 }
 .footer {
 	background: #6387A6;
