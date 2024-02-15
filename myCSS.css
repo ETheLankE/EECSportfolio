@@ -38,8 +38,8 @@ body {
 	float: left;
 	width: 100%;
 	text-align: justify;
+	margin: 8px;
 }
-.p {margin: 8px}
 .footer {
 	background: #6387A6;
 	margin: 0px;
