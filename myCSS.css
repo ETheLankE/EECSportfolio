@@ -38,7 +38,7 @@ body {
 	float: left;
 	width: 100%;
 	text-align: justify;
-	padding-left: auto;
+	padding: auto;
 }
 .footer {
 	background: #6387A6;
