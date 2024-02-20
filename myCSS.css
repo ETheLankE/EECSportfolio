@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 font: optima, georgia, serif;
+	font: 100%/1.4 optima, georgia, serif;
 	color: #202624;
 }
 homePage {
