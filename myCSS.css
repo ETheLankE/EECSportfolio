@@ -39,6 +39,7 @@ body {
 	float: left;
 	width: 100%;
 	text-align: justify;
+	box-sizing: border-box;
 }
 .footer {
 	background: #6387A6;
