@@ -35,7 +35,7 @@ body {
 .content {
 	background: #C1CED9;
 	padding: 5;
-	float: center;
+	float: left;
 	width: 100%;
 	text-align: justify;
 }
