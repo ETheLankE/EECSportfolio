@@ -22,7 +22,7 @@ body {
 	height: 80px;
 	font: 100% impact, optima, georgia, serif;
 	text-color: #3F4034;
-	text-decoration: overline underline #3F4034;
+	text-decoration: overline underline;
 }
 .nav {
 	background: #7EA1BF;
@@ -52,13 +52,13 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #3377A8;
+     color: #0160A9;
 }
 a:visited {
      color: #3F4034;
 }
 a:hover {
-	color: #0160A9;
+	color: #3377A8;
 }
 a:active{
 	color: #28293C;
