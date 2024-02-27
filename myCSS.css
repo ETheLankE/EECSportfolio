@@ -21,7 +21,8 @@ body {
 	width: 100%;
 	height: 80px;
 	font: 100%;
-	text-decoration: overline underline wavy;
+	text-color: #3F4034;
+	text-decoration: overline underline wavy #3F4034;
 }
 .nav {
 	background: #7EA1BF;
